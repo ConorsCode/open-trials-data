@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-14T09:11:17.553Z",
+  "generatedAt": "2026-08-15T08:33:01.497Z",
   "filterOverallStatus": "RECRUITING",
   "queryTerm": "AREA[StudyType]INTERVENTIONAL",
-  "totalTrials": 47402,
+  "totalTrials": 47419,
   "uniqueConditions": "200+ (truncated in by-condition.json)",
   "uniqueSponsors": "200+ (truncated in by-sponsor.json)",
   "hitPageSafetyCap": false,
   "source": "https://clinicaltrials.gov/api/v2/studies",
-  "elapsedMs": 35123,
+  "elapsedMs": 41753,
   "notes": [
     "Scope is studies with overallStatus=RECRUITING and studyType=INTERVENTIONAL at fetch time — observational studies and any other status (completed, terminated, not-yet-recruiting, active-not-recruiting, etc.) are NOT included.",
     "locationCountries is country-level only, deduplicated — no facility names, addresses, or investigator/contact personal data are collected, even though ClinicalTrials.gov publishes some of those fields.",
