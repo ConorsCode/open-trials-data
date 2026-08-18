@@ -7,7 +7,7 @@
   {
     "leadSponsorName": "Mayo Clinic",
     "leadSponsorClass": "OTHER",
-    "trialCount": 346
+    "trialCount": 345
   },
   {
     "leadSponsorName": "Riphah International University",
@@ -17,17 +17,17 @@
   {
     "leadSponsorName": "Cairo University",
     "leadSponsorClass": "OTHER",
-    "trialCount": 297
+    "trialCount": 296
   },
   {
     "leadSponsorName": "Assistance Publique - Hôpitaux de Paris",
     "leadSponsorClass": "OTHER",
-    "trialCount": 284
+    "trialCount": 285
   },
   {
     "leadSponsorName": "Massachusetts General Hospital",
     "leadSponsorClass": "OTHER",
-    "trialCount": 260
+    "trialCount": 261
   },
   {
     "leadSponsorName": "Sun Yat-sen University",
@@ -42,17 +42,17 @@
   {
     "leadSponsorName": "Fudan University",
     "leadSponsorClass": "OTHER",
-    "trialCount": 250
+    "trialCount": 249
   },
   {
     "leadSponsorName": "Memorial Sloan Kettering Cancer Center",
     "leadSponsorClass": "OTHER",
-    "trialCount": 239
+    "trialCount": 241
   },
   {
     "leadSponsorName": "National Cancer Institute (NCI)",
     "leadSponsorClass": "NIH",
-    "trialCount": 223
+    "trialCount": 222
   },
   {
     "leadSponsorName": "Johns Hopkins University",
@@ -62,17 +62,17 @@
   {
     "leadSponsorName": "Yale University",
     "leadSponsorClass": "OTHER",
-    "trialCount": 200
+    "trialCount": 199
+  },
+  {
+    "leadSponsorName": "Stanford University",
+    "leadSponsorClass": "OTHER",
+    "trialCount": 197
   },
   {
     "leadSponsorName": "University of California, San Francisco",
     "leadSponsorClass": "OTHER",
     "trialCount": 197
-  },
-  {
-    "leadSponsorName": "Stanford University",
-    "leadSponsorClass": "OTHER",
-    "trialCount": 196
   },
   {
     "leadSponsorName": "Second Affiliated Hospital, Zhejiang University, School of Medicine",
@@ -82,12 +82,12 @@
   {
     "leadSponsorName": "National Taiwan University Hospital",
     "leadSponsorClass": "OTHER",
-    "trialCount": 187
+    "trialCount": 188
   },
   {
     "leadSponsorName": "Emory University",
     "leadSponsorClass": "OTHER",
-    "trialCount": 180
+    "trialCount": 181
   },
   {
     "leadSponsorName": "University of Alabama at Birmingham",
@@ -117,12 +117,12 @@
   {
     "leadSponsorName": "AstraZeneca",
     "leadSponsorClass": "INDUSTRY",
-    "trialCount": 155
+    "trialCount": 154
   },
   {
     "leadSponsorName": "NYU Langone Health",
     "leadSponsorClass": "OTHER",
-    "trialCount": 150
+    "trialCount": 149
   },
   {
     "leadSponsorName": "The University of Hong Kong",
@@ -142,7 +142,7 @@
   {
     "leadSponsorName": "University of Michigan",
     "leadSponsorClass": "OTHER",
-    "trialCount": 137
+    "trialCount": 136
   },
   {
     "leadSponsorName": "Institute of Hematology & Blood Diseases Hospital, China",
@@ -150,12 +150,12 @@
     "trialCount": 135
   },
   {
-    "leadSponsorName": "University of Pennsylvania",
+    "leadSponsorName": "University of Florida",
     "leadSponsorClass": "OTHER",
-    "trialCount": 133
+    "trialCount": 134
   },
   {
-    "leadSponsorName": "University of Florida",
+    "leadSponsorName": "University of Pennsylvania",
     "leadSponsorClass": "OTHER",
     "trialCount": 133
   },
@@ -165,22 +165,17 @@
     "trialCount": 132
   },
   {
+    "leadSponsorName": "Medical University of South Carolina",
+    "leadSponsorClass": "OTHER",
+    "trialCount": 125
+  },
+  {
     "leadSponsorName": "Tanta University",
     "leadSponsorClass": "OTHER",
     "trialCount": 125
   },
   {
-    "leadSponsorName": "Medical University of South Carolina",
-    "leadSponsorClass": "OTHER",
-    "trialCount": 124
-  },
-  {
     "leadSponsorName": "University of Minnesota",
-    "leadSponsorClass": "OTHER",
-    "trialCount": 123
-  },
-  {
-    "leadSponsorName": "City of Hope Medical Center",
     "leadSponsorClass": "OTHER",
     "trialCount": 123
   },
@@ -190,14 +185,14 @@
     "trialCount": 123
   },
   {
-    "leadSponsorName": "University of California, Los Angeles",
+    "leadSponsorName": "City of Hope Medical Center",
     "leadSponsorClass": "OTHER",
-    "trialCount": 122
+    "trialCount": 123
   },
   {
     "leadSponsorName": "University of Miami",
     "leadSponsorClass": "OTHER",
-    "trialCount": 122
+    "trialCount": 123
   },
   {
     "leadSponsorName": "Icahn School of Medicine at Mount Sinai",
@@ -205,7 +200,7 @@
     "trialCount": 122
   },
   {
-    "leadSponsorName": "Northwestern University",
+    "leadSponsorName": "University of California, Los Angeles",
     "leadSponsorClass": "OTHER",
     "trialCount": 122
   },
@@ -215,12 +210,22 @@
     "trialCount": 122
   },
   {
+    "leadSponsorName": "Northwestern University",
+    "leadSponsorClass": "OTHER",
+    "trialCount": 122
+  },
+  {
     "leadSponsorName": "Novartis Pharmaceuticals",
     "leadSponsorClass": "INDUSTRY",
     "trialCount": 120
   },
   {
-    "leadSponsorName": "Wake Forest University Health Sciences",
+    "leadSponsorName": "Karolinska Institutet",
+    "leadSponsorClass": "OTHER",
+    "trialCount": 116
+  },
+  {
+    "leadSponsorName": "Ruijin Hospital",
     "leadSponsorClass": "OTHER",
     "trialCount": 116
   },
@@ -230,24 +235,14 @@
     "trialCount": 115
   },
   {
-    "leadSponsorName": "Ruijin Hospital",
-    "leadSponsorClass": "OTHER",
-    "trialCount": 115
-  },
-  {
     "leadSponsorName": "Columbia University",
     "leadSponsorClass": "OTHER",
     "trialCount": 115
   },
   {
-    "leadSponsorName": "University of Chicago",
+    "leadSponsorName": "Wake Forest University Health Sciences",
     "leadSponsorClass": "OTHER",
-    "trialCount": 114
-  },
-  {
-    "leadSponsorName": "Karolinska Institutet",
-    "leadSponsorClass": "OTHER",
-    "trialCount": 114
+    "trialCount": 115
   },
   {
     "leadSponsorName": "Weill Medical College of Cornell University",
@@ -261,6 +256,11 @@
   },
   {
     "leadSponsorName": "The University of Texas Health Science Center, Houston",
+    "leadSponsorClass": "OTHER",
+    "trialCount": 114
+  },
+  {
+    "leadSponsorName": "University of Chicago",
     "leadSponsorClass": "OTHER",
     "trialCount": 114
   },
@@ -287,7 +287,7 @@
   {
     "leadSponsorName": "Merck Sharp & Dohme LLC",
     "leadSponsorClass": "INDUSTRY",
-    "trialCount": 109
+    "trialCount": 108
   },
   {
     "leadSponsorName": "University of California, San Diego",
@@ -295,17 +295,17 @@
     "trialCount": 107
   },
   {
+    "leadSponsorName": "Ain Shams University",
+    "leadSponsorClass": "OTHER",
+    "trialCount": 106
+  },
+  {
     "leadSponsorName": "The Hong Kong Polytechnic University",
     "leadSponsorClass": "OTHER",
     "trialCount": 105
   },
   {
-    "leadSponsorName": "Ain Shams University",
-    "leadSponsorClass": "OTHER",
-    "trialCount": 105
-  },
-  {
-    "leadSponsorName": "University of Texas Southwestern Medical Center",
+    "leadSponsorName": "University of Wisconsin, Madison",
     "leadSponsorClass": "OTHER",
     "trialCount": 104
   },
@@ -315,7 +315,7 @@
     "trialCount": 104
   },
   {
-    "leadSponsorName": "University of Wisconsin, Madison",
+    "leadSponsorName": "University of Texas Southwestern Medical Center",
     "leadSponsorClass": "OTHER",
     "trialCount": 104
   },
@@ -327,7 +327,7 @@
   {
     "leadSponsorName": "University of California, Davis",
     "leadSponsorClass": "OTHER",
-    "trialCount": 103
+    "trialCount": 102
   },
   {
     "leadSponsorName": "University of Utah",
@@ -342,7 +342,7 @@
   {
     "leadSponsorName": "University of Aarhus",
     "leadSponsorClass": "OTHER",
-    "trialCount": 94
+    "trialCount": 95
   },
   {
     "leadSponsorName": "University of North Carolina, Chapel Hill",
@@ -352,7 +352,12 @@
   {
     "leadSponsorName": "University of Illinois at Chicago",
     "leadSponsorClass": "OTHER",
-    "trialCount": 92
+    "trialCount": 90
+  },
+  {
+    "leadSponsorName": "Dana-Farber Cancer Institute",
+    "leadSponsorClass": "OTHER",
+    "trialCount": 90
   },
   {
     "leadSponsorName": "Ohio State University",
@@ -360,14 +365,9 @@
     "trialCount": 90
   },
   {
-    "leadSponsorName": "AbbVie",
-    "leadSponsorClass": "INDUSTRY",
-    "trialCount": 89
-  },
-  {
-    "leadSponsorName": "Dana-Farber Cancer Institute",
+    "leadSponsorName": "University of British Columbia",
     "leadSponsorClass": "OTHER",
-    "trialCount": 89
+    "trialCount": 88
   },
   {
     "leadSponsorName": "Tianjin Medical University Cancer Institute and Hospital",
@@ -375,8 +375,8 @@
     "trialCount": 88
   },
   {
-    "leadSponsorName": "University of British Columbia",
-    "leadSponsorClass": "OTHER",
+    "leadSponsorName": "AbbVie",
+    "leadSponsorClass": "INDUSTRY",
     "trialCount": 88
   },
   {
@@ -390,12 +390,12 @@
     "trialCount": 87
   },
   {
-    "leadSponsorName": "Rutgers, The State University of New Jersey",
+    "leadSponsorName": "University Hospital, Montpellier",
     "leadSponsorClass": "OTHER",
     "trialCount": 85
   },
   {
-    "leadSponsorName": "University Hospital, Montpellier",
+    "leadSponsorName": "Rutgers, The State University of New Jersey",
     "leadSponsorClass": "OTHER",
     "trialCount": 85
   },
@@ -410,12 +410,12 @@
     "trialCount": 84
   },
   {
-    "leadSponsorName": "Rigshospitalet, Denmark",
+    "leadSponsorName": "Centre Hospitalier Universitaire de Nice",
     "leadSponsorClass": "OTHER",
     "trialCount": 83
   },
   {
-    "leadSponsorName": "Centre Hospitalier Universitaire de Nice",
+    "leadSponsorName": "Rigshospitalet, Denmark",
     "leadSponsorClass": "OTHER",
     "trialCount": 83
   },
@@ -430,19 +430,14 @@
     "trialCount": 81
   },
   {
-    "leadSponsorName": "University Hospital, Bordeaux",
-    "leadSponsorClass": "OTHER",
-    "trialCount": 80
-  },
-  {
     "leadSponsorName": "Yonsei University",
     "leadSponsorClass": "OTHER",
     "trialCount": 80
   },
   {
-    "leadSponsorName": "Seoul National University Hospital",
+    "leadSponsorName": "University Hospital, Bordeaux",
     "leadSponsorClass": "OTHER",
-    "trialCount": 78
+    "trialCount": 80
   },
   {
     "leadSponsorName": "University of Virginia",
@@ -450,14 +445,14 @@
     "trialCount": 78
   },
   {
-    "leadSponsorName": "University Hospital, Toulouse",
+    "leadSponsorName": "Seoul National University Hospital",
     "leadSponsorClass": "OTHER",
     "trialCount": 78
   },
   {
-    "leadSponsorName": "National Institute of Allergy and Infectious Diseases (NIAID)",
-    "leadSponsorClass": "NIH",
-    "trialCount": 76
+    "leadSponsorName": "University Hospital, Toulouse",
+    "leadSponsorClass": "OTHER",
+    "trialCount": 78
   },
   {
     "leadSponsorName": "University of Maryland, Baltimore",
@@ -470,7 +465,12 @@
     "trialCount": 76
   },
   {
-    "leadSponsorName": "Sunnybrook Health Sciences Centre",
+    "leadSponsorName": "National Institute of Allergy and Infectious Diseases (NIAID)",
+    "leadSponsorClass": "NIH",
+    "trialCount": 76
+  },
+  {
+    "leadSponsorName": "Insel Gruppe AG, University Hospital Bern",
     "leadSponsorClass": "OTHER",
     "trialCount": 75
   },
@@ -480,9 +480,14 @@
     "trialCount": 75
   },
   {
-    "leadSponsorName": "Insel Gruppe AG, University Hospital Bern",
+    "leadSponsorName": "Sunnybrook Health Sciences Centre",
     "leadSponsorClass": "OTHER",
-    "trialCount": 75
+    "trialCount": 74
+  },
+  {
+    "leadSponsorName": "Baylor College of Medicine",
+    "leadSponsorClass": "OTHER",
+    "trialCount": 74
   },
   {
     "leadSponsorName": "Academisch Medisch Centrum - Universiteit van Amsterdam (AMC-UvA)",
@@ -490,27 +495,17 @@
     "trialCount": 73
   },
   {
-    "leadSponsorName": "Baylor College of Medicine",
+    "leadSponsorName": "Children's Hospital Medical Center, Cincinnati",
     "leadSponsorClass": "OTHER",
     "trialCount": 73
   },
   {
-    "leadSponsorName": "Children's Hospital Medical Center, Cincinnati",
+    "leadSponsorName": "The First Affiliated Hospital of Soochow University",
     "leadSponsorClass": "OTHER",
-    "trialCount": 72
-  },
-  {
-    "leadSponsorName": "GlaxoSmithKline",
-    "leadSponsorClass": "INDUSTRY",
     "trialCount": 71
   },
   {
     "leadSponsorName": "Foundation University Islamabad",
-    "leadSponsorClass": "OTHER",
-    "trialCount": 71
-  },
-  {
-    "leadSponsorName": "The First Affiliated Hospital of Soochow University",
     "leadSponsorClass": "OTHER",
     "trialCount": 71
   },
@@ -520,9 +515,19 @@
     "trialCount": 71
   },
   {
+    "leadSponsorName": "GlaxoSmithKline",
+    "leadSponsorClass": "INDUSTRY",
+    "trialCount": 70
+  },
+  {
     "leadSponsorName": "Medical College of Wisconsin",
     "leadSponsorClass": "OTHER",
     "trialCount": 70
+  },
+  {
+    "leadSponsorName": "Sohag University",
+    "leadSponsorClass": "OTHER",
+    "trialCount": 69
   },
   {
     "leadSponsorName": "Oslo University Hospital",
@@ -530,9 +535,9 @@
     "trialCount": 69
   },
   {
-    "leadSponsorName": "Sohag University",
+    "leadSponsorName": "University Hospital, Clermont-Ferrand",
     "leadSponsorClass": "OTHER",
-    "trialCount": 69
+    "trialCount": 68
   },
   {
     "leadSponsorName": "Hoffmann-La Roche",
@@ -550,9 +555,14 @@
     "trialCount": 68
   },
   {
-    "leadSponsorName": "University Hospital, Clermont-Ferrand",
+    "leadSponsorName": "University of Rochester",
     "leadSponsorClass": "OTHER",
-    "trialCount": 68
+    "trialCount": 67
+  },
+  {
+    "leadSponsorName": "Chang Gung Memorial Hospital",
+    "leadSponsorClass": "OTHER",
+    "trialCount": 67
   },
   {
     "leadSponsorName": "Janssen Research & Development, LLC",
@@ -560,22 +570,12 @@
     "trialCount": 67
   },
   {
-    "leadSponsorName": "Chang Gung Memorial Hospital",
-    "leadSponsorClass": "OTHER",
-    "trialCount": 66
-  },
-  {
-    "leadSponsorName": "Peking University People's Hospital",
-    "leadSponsorClass": "OTHER",
-    "trialCount": 66
-  },
-  {
     "leadSponsorName": "Bristol-Myers Squibb",
     "leadSponsorClass": "INDUSTRY",
     "trialCount": 66
   },
   {
-    "leadSponsorName": "University of Rochester",
+    "leadSponsorName": "Peking University People's Hospital",
     "leadSponsorClass": "OTHER",
     "trialCount": 66
   },
@@ -585,7 +585,7 @@
     "trialCount": 65
   },
   {
-    "leadSponsorName": "University of Southern California",
+    "leadSponsorName": "Medical University of Vienna",
     "leadSponsorClass": "OTHER",
     "trialCount": 65
   },
@@ -595,9 +595,9 @@
     "trialCount": 65
   },
   {
-    "leadSponsorName": "Medical University of Vienna",
-    "leadSponsorClass": "OTHER",
-    "trialCount": 65
+    "leadSponsorName": "Regeneron Pharmaceuticals",
+    "leadSponsorClass": "INDUSTRY",
+    "trialCount": 64
   },
   {
     "leadSponsorName": "University of Calgary",
@@ -605,12 +605,12 @@
     "trialCount": 64
   },
   {
-    "leadSponsorName": "Regeneron Pharmaceuticals",
-    "leadSponsorClass": "INDUSTRY",
+    "leadSponsorName": "University of Southern California",
+    "leadSponsorClass": "OTHER",
     "trialCount": 64
   },
   {
-    "leadSponsorName": "Northwell Health",
+    "leadSponsorName": "Shenzhen Geno-Immune Medical Institute",
     "leadSponsorClass": "OTHER",
     "trialCount": 63
   },
@@ -620,7 +620,7 @@
     "trialCount": 63
   },
   {
-    "leadSponsorName": "Shenzhen Geno-Immune Medical Institute",
+    "leadSponsorName": "Northwell Health",
     "leadSponsorClass": "OTHER",
     "trialCount": 63
   },
@@ -630,12 +630,12 @@
     "trialCount": 63
   },
   {
-    "leadSponsorName": "University Hospital, Ghent",
+    "leadSponsorName": "University of California, Irvine",
     "leadSponsorClass": "OTHER",
     "trialCount": 62
   },
   {
-    "leadSponsorName": "University of California, Irvine",
+    "leadSponsorName": "University Hospital, Ghent",
     "leadSponsorClass": "OTHER",
     "trialCount": 62
   },
@@ -643,6 +643,11 @@
     "leadSponsorName": "Chinese PLA General Hospital",
     "leadSponsorClass": "OTHER",
     "trialCount": 61
+  },
+  {
+    "leadSponsorName": "Tongji Hospital",
+    "leadSponsorClass": "OTHER",
+    "trialCount": 60
   },
   {
     "leadSponsorName": "Shanghai Zhongshan Hospital",
@@ -655,19 +660,9 @@
     "trialCount": 60
   },
   {
-    "leadSponsorName": "Tongji Hospital",
-    "leadSponsorClass": "OTHER",
-    "trialCount": 60
-  },
-  {
     "leadSponsorName": "UNC Lineberger Comprehensive Cancer Center",
     "leadSponsorClass": "OTHER",
     "trialCount": 59
-  },
-  {
-    "leadSponsorName": "University Medical Center Groningen",
-    "leadSponsorClass": "OTHER",
-    "trialCount": 58
   },
   {
     "leadSponsorName": "Peking University First Hospital",
@@ -675,12 +670,17 @@
     "trialCount": 58
   },
   {
-    "leadSponsorName": "The Cleveland Clinic",
+    "leadSponsorName": "University Medical Center Groningen",
+    "leadSponsorClass": "OTHER",
+    "trialCount": 58
+  },
+  {
+    "leadSponsorName": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
     "leadSponsorClass": "OTHER",
     "trialCount": 57
   },
   {
-    "leadSponsorName": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+    "leadSponsorName": "The Cleveland Clinic",
     "leadSponsorClass": "OTHER",
     "trialCount": 57
   },
@@ -695,6 +695,36 @@
     "trialCount": 57
   },
   {
+    "leadSponsorName": "Centre hospitalier de l'Université de Montréal (CHUM)",
+    "leadSponsorClass": "OTHER",
+    "trialCount": 56
+  },
+  {
+    "leadSponsorName": "First Affiliated Hospital of Zhejiang University",
+    "leadSponsorClass": "OTHER",
+    "trialCount": 56
+  },
+  {
+    "leadSponsorName": "Takeda",
+    "leadSponsorClass": "INDUSTRY",
+    "trialCount": 56
+  },
+  {
+    "leadSponsorName": "Oregon Health and Science University",
+    "leadSponsorClass": "OTHER",
+    "trialCount": 56
+  },
+  {
+    "leadSponsorName": "Assiut University",
+    "leadSponsorClass": "OTHER",
+    "trialCount": 56
+  },
+  {
+    "leadSponsorName": "University of Oklahoma",
+    "leadSponsorClass": "OTHER",
+    "trialCount": 56
+  },
+  {
     "leadSponsorName": "Montefiore Medical Center",
     "leadSponsorClass": "OTHER",
     "trialCount": 56
@@ -707,40 +737,20 @@
   {
     "leadSponsorName": "Istanbul University - Cerrahpasa",
     "leadSponsorClass": "OTHER",
-    "trialCount": 56
-  },
-  {
-    "leadSponsorName": "Oregon Health and Science University",
-    "leadSponsorClass": "OTHER",
-    "trialCount": 56
-  },
-  {
-    "leadSponsorName": "Takeda",
-    "leadSponsorClass": "INDUSTRY",
-    "trialCount": 56
-  },
-  {
-    "leadSponsorName": "University of Oklahoma",
-    "leadSponsorClass": "OTHER",
-    "trialCount": 56
-  },
-  {
-    "leadSponsorName": "First Affiliated Hospital of Zhejiang University",
-    "leadSponsorClass": "OTHER",
-    "trialCount": 56
-  },
-  {
-    "leadSponsorName": "Assiut University",
-    "leadSponsorClass": "OTHER",
-    "trialCount": 56
-  },
-  {
-    "leadSponsorName": "Ohio State University Comprehensive Cancer Center",
-    "leadSponsorClass": "OTHER",
     "trialCount": 55
   },
   {
-    "leadSponsorName": "Centre hospitalier de l'Université de Montréal (CHUM)",
+    "leadSponsorName": "Jiangsu HengRui Medicine Co., Ltd.",
+    "leadSponsorClass": "INDUSTRY",
+    "trialCount": 55
+  },
+  {
+    "leadSponsorName": "Sanofi",
+    "leadSponsorClass": "INDUSTRY",
+    "trialCount": 55
+  },
+  {
+    "leadSponsorName": "Ohio State University Comprehensive Cancer Center",
     "leadSponsorClass": "OTHER",
     "trialCount": 55
   },
@@ -750,32 +760,12 @@
     "trialCount": 55
   },
   {
-    "leadSponsorName": "Sanofi",
-    "leadSponsorClass": "INDUSTRY",
-    "trialCount": 55
-  },
-  {
-    "leadSponsorName": "Jiangsu HengRui Medicine Co., Ltd.",
-    "leadSponsorClass": "INDUSTRY",
-    "trialCount": 55
-  },
-  {
-    "leadSponsorName": "Abramson Cancer Center at Penn Medicine",
-    "leadSponsorClass": "OTHER",
-    "trialCount": 54
-  },
-  {
     "leadSponsorName": "Virginia Commonwealth University",
     "leadSponsorClass": "OTHER",
     "trialCount": 54
   },
   {
-    "leadSponsorName": "St. Jude Children's Research Hospital",
-    "leadSponsorClass": "OTHER",
-    "trialCount": 53
-  },
-  {
-    "leadSponsorName": "Children's Hospital of Philadelphia",
+    "leadSponsorName": "Abramson Cancer Center at Penn Medicine",
     "leadSponsorClass": "OTHER",
     "trialCount": 53
   },
@@ -785,13 +775,23 @@
     "trialCount": 53
   },
   {
-    "leadSponsorName": "Mansoura University",
+    "leadSponsorName": "Children's Hospital of Philadelphia",
     "leadSponsorClass": "OTHER",
-    "trialCount": 52
+    "trialCount": 53
+  },
+  {
+    "leadSponsorName": "St. Jude Children's Research Hospital",
+    "leadSponsorClass": "OTHER",
+    "trialCount": 53
   },
   {
     "leadSponsorName": "Novo Nordisk A/S",
     "leadSponsorClass": "INDUSTRY",
+    "trialCount": 52
+  },
+  {
+    "leadSponsorName": "Mansoura University",
+    "leadSponsorClass": "OTHER",
     "trialCount": 52
   },
   {
@@ -800,29 +800,14 @@
     "trialCount": 52
   },
   {
-    "leadSponsorName": "Assistance Publique Hopitaux De Marseille",
-    "leadSponsorClass": "OTHER",
-    "trialCount": 51
-  },
-  {
     "leadSponsorName": "Jonsson Comprehensive Cancer Center",
     "leadSponsorClass": "OTHER",
     "trialCount": 51
   },
   {
-    "leadSponsorName": "Beth Israel Deaconess Medical Center",
+    "leadSponsorName": "Assistance Publique Hopitaux De Marseille",
     "leadSponsorClass": "OTHER",
-    "trialCount": 50
-  },
-  {
-    "leadSponsorName": "University College, London",
-    "leadSponsorClass": "OTHER",
-    "trialCount": 50
-  },
-  {
-    "leadSponsorName": "Kafrelsheikh University",
-    "leadSponsorClass": "OTHER",
-    "trialCount": 50
+    "trialCount": 51
   },
   {
     "leadSponsorName": "University Hospital, Angers",
@@ -835,9 +820,19 @@
     "trialCount": 50
   },
   {
-    "leadSponsorName": "University Hospital, Brest",
+    "leadSponsorName": "Beth Israel Deaconess Medical Center",
     "leadSponsorClass": "OTHER",
-    "trialCount": 49
+    "trialCount": 50
+  },
+  {
+    "leadSponsorName": "Kafrelsheikh University",
+    "leadSponsorClass": "OTHER",
+    "trialCount": 50
+  },
+  {
+    "leadSponsorName": "University College, London",
+    "leadSponsorClass": "OTHER",
+    "trialCount": 50
   },
   {
     "leadSponsorName": "Boehringer Ingelheim",
@@ -845,12 +840,17 @@
     "trialCount": 49
   },
   {
-    "leadSponsorName": "Al-Azhar University",
+    "leadSponsorName": "University Hospital, Brest",
+    "leadSponsorClass": "OTHER",
+    "trialCount": 49
+  },
+  {
+    "leadSponsorName": "Roswell Park Cancer Institute",
     "leadSponsorClass": "OTHER",
     "trialCount": 48
   },
   {
-    "leadSponsorName": "Roswell Park Cancer Institute",
+    "leadSponsorName": "Al-Azhar University",
     "leadSponsorClass": "OTHER",
     "trialCount": 48
   },
@@ -875,18 +875,18 @@
     "trialCount": 47
   },
   {
-    "leadSponsorName": "Peking University Third Hospital",
-    "leadSponsorClass": "OTHER",
-    "trialCount": 47
-  },
-  {
     "leadSponsorName": "Suzhou Suncadia Biopharmaceuticals Co., Ltd.",
     "leadSponsorClass": "INDUSTRY",
     "trialCount": 47
   },
   {
-    "leadSponsorName": "Vastra Gotaland Region",
-    "leadSponsorClass": "OTHER_GOV",
+    "leadSponsorName": "Peking University Third Hospital",
+    "leadSponsorClass": "OTHER",
+    "trialCount": 47
+  },
+  {
+    "leadSponsorName": "Ottawa Hospital Research Institute",
+    "leadSponsorClass": "OTHER",
     "trialCount": 46
   },
   {
@@ -895,12 +895,17 @@
     "trialCount": 46
   },
   {
-    "leadSponsorName": "Cedars-Sinai Medical Center",
+    "leadSponsorName": "Beni-Suef University",
     "leadSponsorClass": "OTHER",
     "trialCount": 46
   },
   {
-    "leadSponsorName": "Ottawa Hospital Research Institute",
+    "leadSponsorName": "Vastra Gotaland Region",
+    "leadSponsorClass": "OTHER_GOV",
+    "trialCount": 46
+  },
+  {
+    "leadSponsorName": "Cedars-Sinai Medical Center",
     "leadSponsorClass": "OTHER",
     "trialCount": 46
   },
@@ -910,27 +915,17 @@
     "trialCount": 46
   },
   {
-    "leadSponsorName": "Istituto Ortopedico Rizzoli",
-    "leadSponsorClass": "OTHER",
-    "trialCount": 45
-  },
-  {
-    "leadSponsorName": "Beni-Suef University",
-    "leadSponsorClass": "OTHER",
-    "trialCount": 45
-  },
-  {
     "leadSponsorName": "University of Arizona",
     "leadSponsorClass": "OTHER",
     "trialCount": 45
   },
   {
-    "leadSponsorName": "Case Comprehensive Cancer Center",
+    "leadSponsorName": "Istituto Ortopedico Rizzoli",
     "leadSponsorClass": "OTHER",
-    "trialCount": 44
+    "trialCount": 45
   },
   {
-    "leadSponsorName": "University Hospital, Rouen",
+    "leadSponsorName": "Peking University Cancer Hospital & Institute",
     "leadSponsorClass": "OTHER",
     "trialCount": 44
   },
@@ -940,27 +935,12 @@
     "trialCount": 44
   },
   {
+    "leadSponsorName": "University Hospital, Rouen",
+    "leadSponsorClass": "OTHER",
+    "trialCount": 44
+  },
+  {
     "leadSponsorName": "Odense University Hospital",
-    "leadSponsorClass": "OTHER",
-    "trialCount": 43
-  },
-  {
-    "leadSponsorName": "National University Hospital, Singapore",
-    "leadSponsorClass": "OTHER",
-    "trialCount": 43
-  },
-  {
-    "leadSponsorName": "University of Oxford",
-    "leadSponsorClass": "OTHER",
-    "trialCount": 43
-  },
-  {
-    "leadSponsorName": "Centre for Addiction and Mental Health",
-    "leadSponsorClass": "OTHER",
-    "trialCount": 43
-  },
-  {
-    "leadSponsorName": "Peking University Cancer Hospital & Institute",
     "leadSponsorClass": "OTHER",
     "trialCount": 43
   },
@@ -970,12 +950,37 @@
     "trialCount": 43
   },
   {
-    "leadSponsorName": "Universitair Ziekenhuis Brussel",
+    "leadSponsorName": "Case Comprehensive Cancer Center",
+    "leadSponsorClass": "OTHER",
+    "trialCount": 43
+  },
+  {
+    "leadSponsorName": "National University Hospital, Singapore",
+    "leadSponsorClass": "OTHER",
+    "trialCount": 43
+  },
+  {
+    "leadSponsorName": "Centre for Addiction and Mental Health",
+    "leadSponsorClass": "OTHER",
+    "trialCount": 43
+  },
+  {
+    "leadSponsorName": "University of Oxford",
+    "leadSponsorClass": "OTHER",
+    "trialCount": 43
+  },
+  {
+    "leadSponsorName": "University of Texas at Austin",
+    "leadSponsorClass": "OTHER",
+    "trialCount": 43
+  },
+  {
+    "leadSponsorName": "IRCCS Azienda Ospedaliero-Universitaria di Bologna",
     "leadSponsorClass": "OTHER",
     "trialCount": 42
   },
   {
-    "leadSponsorName": "IRCCS Azienda Ospedaliero-Universitaria di Bologna",
+    "leadSponsorName": "University of Missouri-Columbia",
     "leadSponsorClass": "OTHER",
     "trialCount": 42
   },
@@ -985,12 +990,7 @@
     "trialCount": 42
   },
   {
-    "leadSponsorName": "University of Texas at Austin",
-    "leadSponsorClass": "OTHER",
-    "trialCount": 42
-  },
-  {
-    "leadSponsorName": "University of Missouri-Columbia",
+    "leadSponsorName": "Universitair Ziekenhuis Brussel",
     "leadSponsorClass": "OTHER",
     "trialCount": 42
   },
