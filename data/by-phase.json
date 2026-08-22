@@ -1,34 +1,34 @@
 [
   {
     "phase": "NA",
-    "trialCount": 26758
+    "trialCount": 26802
   },
   {
     "phase": "PHASE2",
-    "trialCount": 7036
+    "trialCount": 7038
   },
   {
     "phase": "PHASE1",
-    "trialCount": 3858
+    "trialCount": 3848
   },
   {
     "phase": "PHASE3",
-    "trialCount": 3432
+    "trialCount": 3437
   },
   {
     "phase": "PHASE1; PHASE2",
-    "trialCount": 2526
+    "trialCount": 2525
   },
   {
     "phase": "PHASE4",
-    "trialCount": 2256
+    "trialCount": 2259
   },
   {
     "phase": "EARLY_PHASE1",
-    "trialCount": 1001
+    "trialCount": 1000
   },
   {
     "phase": "PHASE2; PHASE3",
-    "trialCount": 697
+    "trialCount": 699
   }
 ]
