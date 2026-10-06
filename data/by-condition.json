@@ -5,23 +5,23 @@
   },
   {
     "condition": "Stroke",
-    "trialCount": 597
+    "trialCount": 598
   },
   {
     "condition": "Prostate Cancer",
-    "trialCount": 444
+    "trialCount": 443
   },
   {
     "condition": "Obesity",
-    "trialCount": 435
+    "trialCount": 432
   },
   {
     "condition": "Cancer",
-    "trialCount": 350
+    "trialCount": 349
   },
   {
     "condition": "Depression",
-    "trialCount": 345
+    "trialCount": 346
   },
   {
     "condition": "Colorectal Cancer",
@@ -29,27 +29,27 @@
   },
   {
     "condition": "Healthy",
-    "trialCount": 328
+    "trialCount": 327
   },
   {
     "condition": "Anxiety",
-    "trialCount": 291
+    "trialCount": 292
   },
   {
     "condition": "Heart Failure",
     "trialCount": 283
   },
   {
-    "condition": "Hypertension",
-    "trialCount": 247
-  },
-  {
     "condition": "Ovarian Cancer",
     "trialCount": 247
   },
   {
-    "condition": "Multiple Myeloma",
+    "condition": "Hypertension",
     "trialCount": 247
+  },
+  {
+    "condition": "Multiple Myeloma",
+    "trialCount": 246
   },
   {
     "condition": "Acute Myeloid Leukemia",
@@ -61,7 +61,7 @@
   },
   {
     "condition": "Advanced Solid Tumor",
-    "trialCount": 234
+    "trialCount": 233
   },
   {
     "condition": "Parkinson Disease",
@@ -73,11 +73,11 @@
   },
   {
     "condition": "Pain",
-    "trialCount": 213
+    "trialCount": 214
   },
   {
     "condition": "Pancreatic Cancer",
-    "trialCount": 202
+    "trialCount": 201
   },
   {
     "condition": "Gastric Cancer",
@@ -88,7 +88,7 @@
     "trialCount": 197
   },
   {
-    "condition": "Hepatocellular Carcinoma",
+    "condition": "Type 2 Diabetes",
     "trialCount": 193
   },
   {
@@ -96,8 +96,8 @@
     "trialCount": 192
   },
   {
-    "condition": "Type 2 Diabetes",
-    "trialCount": 192
+    "condition": "Hepatocellular Carcinoma",
+    "trialCount": 191
   },
   {
     "condition": "Cardiovascular Diseases",
@@ -105,11 +105,11 @@
   },
   {
     "condition": "Multiple Sclerosis",
-    "trialCount": 182
+    "trialCount": 183
   },
   {
     "condition": "Coronary Artery Disease",
-    "trialCount": 181
+    "trialCount": 180
   },
   {
     "condition": "Autism Spectrum Disorder",
@@ -121,11 +121,11 @@
   },
   {
     "condition": "Cervical Cancer",
-    "trialCount": 168
+    "trialCount": 169
   },
   {
     "condition": "Quality of Life",
-    "trialCount": 159
+    "trialCount": 161
   },
   {
     "condition": "Aging",
@@ -133,11 +133,11 @@
   },
   {
     "condition": "Healthy Volunteers",
-    "trialCount": 156
+    "trialCount": 157
   },
   {
     "condition": "Head and Neck Cancer",
-    "trialCount": 156
+    "trialCount": 157
   },
   {
     "condition": "Non-Small Cell Lung Cancer",
@@ -145,7 +145,7 @@
   },
   {
     "condition": "Endometrial Cancer",
-    "trialCount": 152
+    "trialCount": 153
   },
   {
     "condition": "Schizophrenia",
@@ -157,26 +157,26 @@
   },
   {
     "condition": "Major Depressive Disorder",
-    "trialCount": 148
-  },
-  {
-    "condition": "Postoperative Pain",
     "trialCount": 147
   },
   {
+    "condition": "Postoperative Pain",
+    "trialCount": 144
+  },
+  {
     "condition": "Surgery",
-    "trialCount": 142
+    "trialCount": 141
   },
   {
     "condition": "Non Small Cell Lung Cancer",
-    "trialCount": 138
-  },
-  {
-    "condition": "Non-small Cell Lung Cancer",
-    "trialCount": 131
+    "trialCount": 137
   },
   {
     "condition": "Glioblastoma",
+    "trialCount": 131
+  },
+  {
+    "condition": "Non-small Cell Lung Cancer",
     "trialCount": 131
   },
   {
@@ -200,20 +200,20 @@
     "trialCount": 123
   },
   {
-    "condition": "Dementia",
-    "trialCount": 121
-  },
-  {
     "condition": "Melanoma",
     "trialCount": 121
   },
   {
-    "condition": "Knee Osteoarthritis",
-    "trialCount": 119
+    "condition": "Dementia",
+    "trialCount": 120
   },
   {
     "condition": "Alcohol Use Disorder",
-    "trialCount": 119
+    "trialCount": 120
+  },
+  {
+    "condition": "Knee Osteoarthritis",
+    "trialCount": 120
   },
   {
     "condition": "Spinal Cord Injuries",
@@ -221,18 +221,14 @@
   },
   {
     "condition": "Lymphoma",
-    "trialCount": 119
+    "trialCount": 118
   },
   {
     "condition": "Ischemic Stroke",
-    "trialCount": 113
+    "trialCount": 114
   },
   {
     "condition": "Head and Neck Squamous Cell Carcinoma",
-    "trialCount": 111
-  },
-  {
-    "condition": "Opioid Use Disorder",
     "trialCount": 111
   },
   {
@@ -240,11 +236,15 @@
     "trialCount": 110
   },
   {
+    "condition": "Diabetes Mellitus, Type 2",
+    "trialCount": 110
+  },
+  {
     "condition": "Diabetes",
     "trialCount": 110
   },
   {
-    "condition": "Diabetes Mellitus, Type 2",
+    "condition": "Opioid Use Disorder",
     "trialCount": 110
   },
   {
@@ -257,18 +257,22 @@
   },
   {
     "condition": "HIV",
-    "trialCount": 108
+    "trialCount": 107
+  },
+  {
+    "condition": "Pregnancy",
+    "trialCount": 107
   },
   {
     "condition": "Metastatic Breast Cancer",
     "trialCount": 106
   },
   {
-    "condition": "Pregnancy",
-    "trialCount": 106
+    "condition": "Cognitive Impairment",
+    "trialCount": 99
   },
   {
-    "condition": "Cognitive Impairment",
+    "condition": "Healthy Participants",
     "trialCount": 99
   },
   {
@@ -277,10 +281,6 @@
   },
   {
     "condition": "Myelodysplastic Syndromes",
-    "trialCount": 99
-  },
-  {
-    "condition": "Healthy Participants",
     "trialCount": 99
   },
   {
@@ -293,7 +293,7 @@
   },
   {
     "condition": "Epilepsy",
-    "trialCount": 96
+    "trialCount": 97
   },
   {
     "condition": "Acute Lymphoblastic Leukemia",
@@ -312,11 +312,7 @@
     "trialCount": 94
   },
   {
-    "condition": "Overweight",
-    "trialCount": 93
-  },
-  {
-    "condition": "PTSD",
+    "condition": "Low Back Pain",
     "trialCount": 93
   },
   {
@@ -324,15 +320,19 @@
     "trialCount": 92
   },
   {
-    "condition": "Low Back Pain",
+    "condition": "PTSD",
     "trialCount": 92
   },
   {
-    "condition": "Pain, Postoperative",
-    "trialCount": 90
+    "condition": "Overweight",
+    "trialCount": 91
   },
   {
     "condition": "Pain Management",
+    "trialCount": 91
+  },
+  {
+    "condition": "Pain, Postoperative",
     "trialCount": 90
   },
   {
@@ -340,15 +340,11 @@
     "trialCount": 88
   },
   {
-    "condition": "Inflammation",
-    "trialCount": 84
-  },
-  {
     "condition": "Type 1 Diabetes",
     "trialCount": 84
   },
   {
-    "condition": "Solid Tumors",
+    "condition": "Obesity & Overweight",
     "trialCount": 84
   },
   {
@@ -356,11 +352,15 @@
     "trialCount": 84
   },
   {
-    "condition": "Sarcoma",
+    "condition": "Solid Tumors",
     "trialCount": 84
   },
   {
-    "condition": "Obesity & Overweight",
+    "condition": "Inflammation",
+    "trialCount": 84
+  },
+  {
+    "condition": "Sarcoma",
     "trialCount": 84
   },
   {
@@ -372,10 +372,6 @@
     "trialCount": 82
   },
   {
-    "condition": "Colon Cancer",
-    "trialCount": 81
-  },
-  {
     "condition": "Systemic Lupus Erythematosus",
     "trialCount": 81
   },
@@ -384,11 +380,15 @@
     "trialCount": 81
   },
   {
-    "condition": "Solid Tumor, Adult",
-    "trialCount": 79
+    "condition": "Colon Cancer",
+    "trialCount": 81
   },
   {
     "condition": "COPD",
+    "trialCount": 79
+  },
+  {
+    "condition": "Solid Tumor, Adult",
     "trialCount": 79
   },
   {
@@ -396,32 +396,36 @@
     "trialCount": 78
   },
   {
-    "condition": "Frailty",
-    "trialCount": 77
-  },
-  {
-    "condition": "Spinal Cord Injury",
-    "trialCount": 76
+    "condition": "Mental Health",
+    "trialCount": 78
   },
   {
     "condition": "Atopic Dermatitis",
-    "trialCount": 76
+    "trialCount": 77
+  },
+  {
+    "condition": "Sepsis",
+    "trialCount": 77
   },
   {
     "condition": "Smoking Cessation",
     "trialCount": 76
   },
   {
-    "condition": "Sepsis",
+    "condition": "Spinal Cord Injury",
     "trialCount": 76
   },
   {
-    "condition": "Mental Health",
+    "condition": "Frailty",
     "trialCount": 76
   },
   {
     "condition": "Sarcopenia",
-    "trialCount": 75
+    "trialCount": 74
+  },
+  {
+    "condition": "Metabolic Syndrome",
+    "trialCount": 74
   },
   {
     "condition": "Acute Kidney Injury",
@@ -432,19 +436,15 @@
     "trialCount": 74
   },
   {
-    "condition": "Metabolic Syndrome",
+    "condition": "Endometriosis",
     "trialCount": 74
   },
   {
-    "condition": "Endometriosis",
+    "condition": "Esophageal Squamous Cell Carcinoma",
     "trialCount": 73
   },
   {
     "condition": "Hepatocellular Carcinoma (HCC)",
-    "trialCount": 73
-  },
-  {
-    "condition": "Esophageal Squamous Cell Carcinoma",
     "trialCount": 73
   },
   {
@@ -468,6 +468,10 @@
     "trialCount": 71
   },
   {
+    "condition": "Advanced Cancer",
+    "trialCount": 70
+  },
+  {
     "condition": "Cerebral Palsy",
     "trialCount": 70
   },
@@ -476,15 +480,11 @@
     "trialCount": 70
   },
   {
-    "condition": "Radiotherapy",
-    "trialCount": 70
-  },
-  {
     "condition": "Autism",
     "trialCount": 70
   },
   {
-    "condition": "Advanced Cancer",
+    "condition": "Radiotherapy",
     "trialCount": 70
   },
   {
@@ -500,15 +500,11 @@
     "trialCount": 68
   },
   {
-    "condition": "Suicidal Ideation",
-    "trialCount": 67
-  },
-  {
     "condition": "Breast Neoplasms",
     "trialCount": 67
   },
   {
-    "condition": "Post Traumatic Stress Disorder",
+    "condition": "Suicidal Ideation",
     "trialCount": 67
   },
   {
@@ -520,15 +516,23 @@
     "trialCount": 66
   },
   {
-    "condition": "Pancreatic Ductal Adenocarcinoma",
-    "trialCount": 64
+    "condition": "Post Traumatic Stress Disorder",
+    "trialCount": 66
   },
   {
     "condition": "HER2-positive Breast Cancer",
     "trialCount": 64
   },
   {
-    "condition": "Fibromyalgia",
+    "condition": "Pancreatic Ductal Adenocarcinoma",
+    "trialCount": 64
+  },
+  {
+    "condition": "Malignant Solid Neoplasm",
+    "trialCount": 63
+  },
+  {
+    "condition": "Infertility",
     "trialCount": 62
   },
   {
@@ -536,23 +540,19 @@
     "trialCount": 62
   },
   {
-    "condition": "Malignant Solid Neoplasm",
+    "condition": "Fibromyalgia",
     "trialCount": 62
   },
   {
-    "condition": "Infertility",
-    "trialCount": 62
+    "condition": "Chronic Kidney Disease",
+    "trialCount": 61
   },
   {
     "condition": "Blood Pressure",
     "trialCount": 61
   },
   {
-    "condition": "Chronic Kidney Disease",
-    "trialCount": 60
-  },
-  {
-    "condition": "Nasopharyngeal Carcinoma",
+    "condition": "Insulin Resistance",
     "trialCount": 60
   },
   {
@@ -560,8 +560,8 @@
     "trialCount": 60
   },
   {
-    "condition": "Insulin Resistance",
-    "trialCount": 60
+    "condition": "Nasopharyngeal Carcinoma",
+    "trialCount": 59
   },
   {
     "condition": "Renal Cell Carcinoma",
@@ -576,7 +576,11 @@
     "trialCount": 59
   },
   {
-    "condition": "Opioid Use",
+    "condition": "Chronic Obstructive Pulmonary Disease",
+    "trialCount": 58
+  },
+  {
+    "condition": "Cognition",
     "trialCount": 58
   },
   {
@@ -584,11 +588,11 @@
     "trialCount": 58
   },
   {
-    "condition": "Virtual Reality",
-    "trialCount": 58
+    "condition": "Metastatic Colorectal Cancer",
+    "trialCount": 57
   },
   {
-    "condition": "Cognition",
+    "condition": "Virtual Reality",
     "trialCount": 57
   },
   {
@@ -596,15 +600,19 @@
     "trialCount": 57
   },
   {
-    "condition": "Metastatic Colorectal Cancer",
-    "trialCount": 57
-  },
-  {
     "condition": "Overweight and Obesity",
     "trialCount": 57
   },
   {
-    "condition": "Chronic Obstructive Pulmonary Disease",
+    "condition": "Advanced Breast Cancer",
+    "trialCount": 57
+  },
+  {
+    "condition": "Migraine",
+    "trialCount": 57
+  },
+  {
+    "condition": "Opioid Use",
     "trialCount": 57
   },
   {
@@ -612,27 +620,15 @@
     "trialCount": 57
   },
   {
+    "condition": "Liver Cancer",
+    "trialCount": 56
+  },
+  {
     "condition": "Myopia",
     "trialCount": 56
   },
   {
     "condition": "Periodontitis",
-    "trialCount": 56
-  },
-  {
-    "condition": "Liver Cancer",
-    "trialCount": 56
-  },
-  {
-    "condition": "Migraine",
-    "trialCount": 56
-  },
-  {
-    "condition": "Advanced Breast Cancer",
-    "trialCount": 56
-  },
-  {
-    "condition": "Bipolar Disorder",
     "trialCount": 55
   },
   {
@@ -640,15 +636,11 @@
     "trialCount": 55
   },
   {
-    "condition": "Suicide",
+    "condition": "Bipolar Disorder",
     "trialCount": 55
   },
   {
-    "condition": "Follicular Lymphoma",
-    "trialCount": 54
-  },
-  {
-    "condition": "Type 2 Diabetes Mellitus (T2DM)",
+    "condition": "Suicide",
     "trialCount": 54
   },
   {
@@ -656,11 +648,15 @@
     "trialCount": 54
   },
   {
-    "condition": "Neuroblastoma",
+    "condition": "Follicular Lymphoma",
+    "trialCount": 54
+  },
+  {
+    "condition": "Depressive Symptoms",
     "trialCount": 53
   },
   {
-    "condition": "Small Cell Lung Cancer",
+    "condition": "Type 2 Diabetes Mellitus (T2DM)",
     "trialCount": 53
   },
   {
@@ -668,7 +664,11 @@
     "trialCount": 53
   },
   {
-    "condition": "Depressive Symptoms",
+    "condition": "Small Cell Lung Cancer",
+    "trialCount": 53
+  },
+  {
+    "condition": "Neuroblastoma",
     "trialCount": 53
   },
   {
@@ -680,7 +680,7 @@
     "trialCount": 52
   },
   {
-    "condition": "Brain Tumor",
+    "condition": "Obsessive-Compulsive Disorder",
     "trialCount": 52
   },
   {
@@ -688,11 +688,11 @@
     "trialCount": 52
   },
   {
-    "condition": "Obsessive-Compulsive Disorder",
+    "condition": "Brain Tumor",
     "trialCount": 52
   },
   {
-    "condition": "Cognitive Decline",
+    "condition": "Septic Shock",
     "trialCount": 51
   },
   {
@@ -704,19 +704,19 @@
     "trialCount": 51
   },
   {
-    "condition": "Septic Shock",
-    "trialCount": 50
+    "condition": "Cognitive Decline",
+    "trialCount": 51
   },
   {
     "condition": "Metastatic Solid Tumor",
     "trialCount": 50
   },
   {
-    "condition": "Children",
+    "condition": "Myocardial Infarction",
     "trialCount": 49
   },
   {
-    "condition": "Pancreatic Adenocarcinoma",
+    "condition": "Children",
     "trialCount": 49
   },
   {
@@ -728,11 +728,7 @@
     "trialCount": 48
   },
   {
-    "condition": "Cholangiocarcinoma",
-    "trialCount": 48
-  },
-  {
-    "condition": "Gastric Adenocarcinoma",
+    "condition": "Pancreatic Adenocarcinoma",
     "trialCount": 48
   },
   {
@@ -740,15 +736,11 @@
     "trialCount": 48
   },
   {
-    "condition": "Rheumatoid Arthritis (RA)",
+    "condition": "Cholangiocarcinoma",
     "trialCount": 48
   },
   {
-    "condition": "Cirrhosis",
-    "trialCount": 47
-  },
-  {
-    "condition": "Diabetic Foot Ulcer",
+    "condition": "Rheumatoid Arthritis (RA)",
     "trialCount": 47
   },
   {
@@ -756,35 +748,15 @@
     "trialCount": 47
   },
   {
-    "condition": "Stroke, Ischemic",
-    "trialCount": 47
-  },
-  {
-    "condition": "Analgesia",
-    "trialCount": 47
-  },
-  {
-    "condition": "Post Operative Pain",
-    "trialCount": 47
-  },
-  {
     "condition": "Osteosarcoma",
     "trialCount": 47
   },
   {
-    "condition": "Autoimmune Diseases",
+    "condition": "Posttraumatic Stress Disorder",
     "trialCount": 47
   },
   {
-    "condition": "Gynecologic Cancer",
-    "trialCount": 47
-  },
-  {
-    "condition": "Myocardial Infarction",
-    "trialCount": 47
-  },
-  {
-    "condition": "Osteoarthritis",
+    "condition": "Cirrhosis",
     "trialCount": 47
   },
   {
@@ -792,8 +764,36 @@
     "trialCount": 47
   },
   {
-    "condition": "Posttraumatic Stress Disorder",
+    "condition": "Osteoarthritis",
     "trialCount": 47
+  },
+  {
+    "condition": "Stroke, Ischemic",
+    "trialCount": 47
+  },
+  {
+    "condition": "Gastric Adenocarcinoma",
+    "trialCount": 47
+  },
+  {
+    "condition": "Autoimmune Diseases",
+    "trialCount": 47
+  },
+  {
+    "condition": "Analgesia",
+    "trialCount": 47
+  },
+  {
+    "condition": "Diabetic Foot Ulcer",
+    "trialCount": 47
+  },
+  {
+    "condition": "Peripheral Arterial Disease",
+    "trialCount": 46
+  },
+  {
+    "condition": "Post Operative Pain",
+    "trialCount": 46
   },
   {
     "condition": "Cognitive Dysfunction",
